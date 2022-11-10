@@ -1,8 +1,8 @@
-# 🟢 WORKSHOP S1: Doodles
+## Doodles
 
 ¡Bienvenidos al mundo NFT! 
 
-El equipo de Doodles () nos ha pedido un favor de cara al nuevo lanzamiento de Doodles2, así que tenemos que hacer la nueva home. 
+El equipo de Doodles nos ha pedido un favor de cara al nuevo lanzamiento de Doodles2, así que tenemos que hacer la nueva home. 
 
 Nos han dado el siguiente diseño y también todos los assets necesarios para ello:
 
@@ -17,3 +17,6 @@ A su vez, el equipo de diseño nos ha proporcionado cierta información sobre co
 ![Color1](recursos/img1.png)
     
 ![Colo2](recursos/img2.png)
+
+
+> [Recursos](recursos/assets.zip)
