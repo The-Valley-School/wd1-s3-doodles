@@ -12,6 +12,9 @@ A su vez, el equipo de diseño nos ha proporcionado cierta información sobre co
 
 - Tipografía: [https://fonts.google.com/specimen/Comic+Neue](https://fonts.google.com/specimen/Comic+Neue)
 - Tipografía: [https://fonts.google.com/specimen/Comic+Neue](https://fonts.google.com/specimen/Comic+Neue)
+
+https://fonts.google.com/specimen/Comic+Neue
+
 - Colores: #99E2FF, #80B1FF, #6d96d8, #5086DC, #313A71, #FFA4D4, #FC7CC5
     
     
